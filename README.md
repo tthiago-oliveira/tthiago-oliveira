@@ -23,13 +23,16 @@ Estudante de **Ciência da Computação**, focado em desenvolvimento backend e c
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tthiago-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthiago-oliveira&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
-</div>
+### 💻 Tecnologias & Ferramentas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tthiago-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tthiago-oliveira&layout=compact&theme=dark)
 
 ---
 
 🤝 **Vamos nos conectar?**
 - [LinkedIn](https://www.linkedin.com/in/thiago-da-silva-oliveira-91ba47359/)
 - Email: `thiago.oliveira.tech@gmail.com`
+
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
