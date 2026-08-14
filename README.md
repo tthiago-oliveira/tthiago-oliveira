@@ -19,15 +19,7 @@ Estudante de **Ciência da Computação**, focado em desenvolvimento backend e c
 - 🛠️ Boas práticas de código, versionamento com Git e arquitetura limpa
 - 🎓 Projetos acadêmicos e desafios de lógica de programação
 
----
 
-### 📊 Estatísticas do GitHub
-
-### 💻 Tecnologias & Ferramentas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tthiago-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tthiago-oliveira&layout=compact&theme=dark)
 
 ---
 
