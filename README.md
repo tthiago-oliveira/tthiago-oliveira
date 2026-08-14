@@ -35,4 +35,4 @@ Estudante de **Ciência da Computação**, focado em desenvolvimento backend e c
 - [LinkedIn](https://www.linkedin.com/in/thiago-da-silva-oliveira-91ba47359/)
 - Email: `thiago.oliveira.tech@gmail.com`
 
-![Snake animation](https://github.com/tthiago0-oliveira/tthiago-oliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/tthiago-oliveira/tthiago-oliveira/output/github-contribution-grid-snake-dark.svg)
